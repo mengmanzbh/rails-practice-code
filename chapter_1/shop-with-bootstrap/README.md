@@ -15,5 +15,8 @@ docker exec -it shop-with-bootstrap bash
 gem install rails
 ```
 ```
+bundle install
+```
+```
 rails s -b 0.0.0.0 -p 3001
 ```
